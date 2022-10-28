@@ -24,3 +24,9 @@ a {
     color: #fff;
     text-decoration: none;
 }
+p {
+    margin: 0.5 rem 0;
+}
+img {
+    width: 100%;
+}
