@@ -198,3 +198,15 @@ tabs .container > div {
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 2rem;
 }
+.footer li {
+    line-height: 1.9;
+}
+.footer .lang-select {
+    margin-top: 2rem;
+    color: #999;
+    background-color: #000;
+    background-image: none;
+    border: 1rem solid #333;
+    padding: 1rem 1.2rem;
+    border-radius: 5px;
+}
