@@ -155,3 +155,18 @@ tabs .container > div {
     grid-gap: 2rem;
     text-align: center;
 }
+.table {
+    width: 100%;
+    margin-top: 2rem;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.table thead th {
+    text-transform: uppercase;
+    padding: 0.8rem;
+}
+.table tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
