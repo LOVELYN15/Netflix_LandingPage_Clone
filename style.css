@@ -30,3 +30,9 @@ p {
 img {
     width: 100%;
 }
+.showcase {
+    width: 100%;
+    height: 93vh;
+    position: relative;
+    background: url('htpps://i.ibb.co/vXqDmnh/background.jpg') no-repeat center center/cover;
+}
