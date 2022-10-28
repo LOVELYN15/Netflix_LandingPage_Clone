@@ -47,3 +47,11 @@ img {
     background: rgba(0, 0, 0, 0.6);
     box-shadow: inset 120px 100px 250px #000000, inset -120px -100px 250px #000000; 
 }
+.showcase-top {
+    position: relative;
+    z-index: 2;
+    height: 90px;
+}
+.showcase-top img {
+    
+}
